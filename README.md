@@ -11,5 +11,14 @@ convert between Fahrenheit to Celsius
 Installation:
 <br>
 git clone www.github.com
+<br>
+formulae used:
+<br>
+c to f
+<br>
+f to c
+
+
+<br>
 
 
