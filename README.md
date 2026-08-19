@@ -1,7 +1,13 @@
 # git-simultion
 <br>
-This program does the following work:)
-Celsius to Fahrenheit
+TEMPERATURE CONVERTER
 <br>
-Fahrenheit to Celsius
+features:
+<br>
+convert between Celsius to Fahrenheit
+convert between Fahrenheit to Celsius
+<br>
+Installation:
+git clone www.github.com
+
 
