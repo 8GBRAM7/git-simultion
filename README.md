@@ -1,5 +1,6 @@
 # git-simultion
-my first project it seems
 <br>
-Techlingua Club
+This program does the following work:)
+Celsius to Fahrenheit
+Fahrenheit to Celsius
 
